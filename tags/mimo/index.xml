@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mimo on Zhiyuan Jiang</title>
+    <title>mimo on Yujie Fu</title>
     <link>https://fufulucky.github.io/tags/mimo/</link>
-    <description>Recent content in mimo on Zhiyuan Jiang</description>
+    <description>Recent content in mimo on Yujie Fu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zhiyuan Jiang</copyright>
+    <copyright>&amp;copy; 2019 Yujie Fu</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fufulucky.github.io/tags/mimo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Massive MIMO</title>
+      <title>RDHEI</title>
       <link>https://fufulucky.github.io/project/mimo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
